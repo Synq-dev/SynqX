@@ -24,9 +24,8 @@
 ---
 
 ### 📫 Connect
-- Discord: `synq.dev`
-- Telegram: `@synqtools` *(example)*
-- Email: `dev.synq@proton.me` *(example)*
+- Discord: `synq.dev
+- Email: `dev.synq@proton.me` 
 
 ---
 
