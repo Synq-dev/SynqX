@@ -24,7 +24,7 @@
 ---
 
 ### 📫 Connect
-- Discord: `synq.dev
+- Discord: `synq.dev`
 - Email: `dev.synq@proton.me` 
 
 ---
